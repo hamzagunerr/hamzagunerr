@@ -2,16 +2,6 @@
 
 ---
 
-## 🙋‍♂️ Hakkımda
-
-Golang ve Vue.js ile modern web uygulamaları geliştiriyor, CI/CD ve DevOps süreçlerini uçtan uca yönetiyorum.  
-AI tabanlı çözümlerden gerçek dünya entegrasyonlarına kadar geniş bir yelpazede deneyim sahibiyim.  
-Geliştirdiğim projeler aktif olarak yüzlerce kullanıcı tarafından kullanılıyor.  
-Takım çalışmasına yatkın, sorumluluk alabilen ve üretken bir geliştiriciyim.  
-Kısa vadede backend developer rolünde daha fazla değer üretmeyi, orta vadede ise DevOps alanında uzmanlaşmayı hedefliyorum.
-
----
-
 ## ⚙️ Kullandığım Teknolojiler
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
